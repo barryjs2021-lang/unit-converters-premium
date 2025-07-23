@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","9558","static/chunks/app/angle/page-1f2f459760fc02ae.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:T497,
+An angle measures the amount of rotation between two intersecting lines or surfaces. Angles are fundamental in mathematics, physics, engineering, and navigation.
+
+The most common angle units are:
+• **Degree (°)**: Divides a full circle into 360 equal parts. Most commonly used in everyday applications.
+• **Radian (rad)**: The SI unit for angle measurement. One radian is the angle subtended by an arc equal in length to the radius.
+• **Gradian (grad)**: Divides a full circle into 400 equal parts. Used in surveying and some European countries.
+• **Minute (arcmin)**: 1/60 of a degree. Used for precise measurements.
+• **Second (arcsec)**: 1/3600 of a degree. Used for very precise measurements in astronomy and surveying.
+
+Key relationships:
+- 360° = 2π radians = 400 gradians
+- 1° = 60 arcminutes = 3600 arcseconds
+- π radians = 180°
+
+Angle measurements are essential in:
+- **Navigation**: GPS coordinates, compass bearings
+- **Engineering**: Mechanical design, robotics
+- **Astronomy**: Star positions, telescope pointing
+- **Surveying**: Land measurement, mapping
+- **Mathematics**: Trigonometry, calculus
+- **Graphics**: Computer graphics, 3D modeling
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","angle",""],"i":false,"f":[[["",{"children":["angle",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["angle",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Angle Converter","description":"Convert between degrees, radians and gradians.","explanation":"$7","units":[{"value":"degree","label":"Degree (°)"},{"value":"radian","label":"Radian (rad)"},{"value":"gradian","label":"Gradian (grad)"},{"value":"minute","label":"Minute (arcmin)"},{"value":"second","label":"Second (arcsec)"}],"converterType":"angle","icon":"🔄","commonConversions":[{"from":"degree","to":"radian","text":"° → rad"},{"from":"radian","to":"degree","text":"rad → °"},{"from":"degree","to":"gradian","text":"° → grad"},{"from":"gradian","to":"degree","text":"grad → °"},{"from":"degree","to":"minute","text":"° → arcmin"},{"from":"minute","to":"degree","text":"arcmin → °"},{"from":"degree","to":"second","text":"° → arcsec"},{"from":"radian","to":"gradian","text":"rad → grad"}],"examples":[{"text":"Right angle: 90°","calculation":"90° = 1.571 rad = 100 grad"},{"text":"Full circle: 360°","calculation":"360° = 2π rad ≈ 6.283 rad = 400 grad"},{"text":"45° angle: 45°","calculation":"45° = π/4 rad ≈ 0.785 rad = 50 grad"},{"text":"GPS precision: 1 arcsec","calculation":"1 arcsec = 0.000278° = 4.85×10⁻⁶ rad"}]}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","5LTJj2QwCv3IrQsJGrmAC",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

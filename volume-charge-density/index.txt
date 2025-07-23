@@ -1,0 +1,91 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","4357","static/chunks/app/volume-charge-density/page-a73e1087ffeb26b2.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:Te65,
+Volume charge density is the amount of electric charge per unit volume in a three-dimensional space. It represents how charge is distributed throughout a volume and is fundamental to understanding electric fields in bulk materials and space charge effects.
+
+The SI unit for volume charge density is coulomb per cubic meter (C/m³).
+
+**Key characteristics:**
+• **Three-dimensional distribution** - charge distributed throughout a volume
+• **Gauss's law application** - divergence of electric field relates to charge density
+• **Poisson's equation** - ∇²V = -ρ/ε₀ (relates potential to charge density)
+• **Field source** - creates electric fields radiating from volume elements
+
+**Fundamental relationships:**
+• **Total charge**: Q = ∫∫∫ρ dV (where ρ is volume charge density)
+• **Gauss's law**: ∇·E = ρ/ε₀ (divergence of field equals charge density)
+• **Poisson's equation**: ∇²V = -ρ/ε₀ (charge density determines potential)
+• **Continuity equation**: ∂ρ/∂t + ∇·J = 0 (charge conservation)
+
+**Applications:**
+• **Plasma physics** - ionized gas charge distributions
+• **Electret materials** - permanently charged dielectric materials
+• **Space charge effects** - electron guns and vacuum tubes
+• **Semiconductor devices** - depletion regions and doping profiles
+• **Electrostatic precipitators** - charged particle separation
+• **Atmospheric electricity** - charge distributions in clouds
+
+**Measurement techniques:**
+• **Langmuir probes** - plasma density measurements
+• **Capacitive sensors** - charge distribution sensing
+• **Field emission microscopy** - space charge visualization
+• **Mass spectrometry** - ion density measurements
+• **Electrostatic force balance** - charge density determination
+
+**Material applications:**
+• **Electret microphones** - permanent charge storage
+• **Photocopying** - toner charging and transfer
+• **Air filtration** - electrostatic particle capture
+• **Powder coating** - charged particle deposition
+• **Electrorheological fluids** - field-responsive materials
+
+**Common charge densities:**
+• **Laboratory plasmas**: 1-1000 μC/m³ (controlled ionization)
+• **Atmospheric charge**: 0.1-10 nC/m³ (fair weather electricity)
+• **Electret materials**: 10-10,000 μC/m³ (permanent polarization)
+• **Space charge regions**: 1-100 pC/cm³ (vacuum devices)
+• **Semiconductor depletion**: 1-1000 μC/m³ (junction regions)
+• **Charged aerosols**: 0.01-1 μC/m³ (industrial applications)
+
+**Physical phenomena:**
+• **Space charge limitation** - current flow restrictions
+• **Field distortion** - non-uniform field distributions
+• **Charge relaxation** - temporal charge redistribution
+• **Dielectric breakdown** - critical charge density limits
+• **Corona formation** - ionization threshold effects
+
+**Key relationships:**
+- **Electric field**: E = ∫(ρ dV)/(4πε₀r²) (point charge integration)
+- **Potential**: V = ∫(ρ dV)/(4πε₀r) (volume charge contribution)
+- **Energy density**: u = ½ε₀E² = ρV/2 (electrostatic energy)
+- **Force density**: f = ρE (force per unit volume)
+
+**Design considerations:**
+• **Charge mobility** - material conductivity effects
+• **Field uniformity** - charge distribution requirements
+• **Temporal stability** - charge retention over time
+• **Environmental effects** - humidity and temperature influence
+• **Safety limits** - breakdown and discharge prevention
+
+Understanding volume charge density is essential for plasma physicists, electrostatics engineers, semiconductor device designers, and anyone working with charged materials, atmospheric electricity, or space charge phenomena.
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","volume-charge-density",""],"i":false,"f":[[["",{"children":["volume-charge-density",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["volume-charge-density",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Volume Charge Density Converter","description":"Convert between C/m³, μC/cm³, nC/m³, and other volume charge density units for plasma physics and electrostatics.","icon":"🔳","units":[{"value":"coulombPerCubicMeter","label":"Coulomb per Cubic Meter (C/m³)"},{"value":"coulombPerCubicCentimeter","label":"Coulomb per Cubic Centimeter (C/cm³)"},{"value":"coulombPerCubicMillimeter","label":"Coulomb per Cubic Millimeter (C/mm³)"},{"value":"microcoulombPerCubicMeter","label":"Microcoulomb per Cubic Meter (μC/m³)"},{"value":"microcoulombPerCubicCentimeter","label":"Microcoulomb per Cubic Centimeter (μC/cm³)"},{"value":"microcoulombPerCubicMillimeter","label":"Microcoulomb per Cubic Millimeter (μC/mm³)"},{"value":"nanocoulombPerCubicMeter","label":"Nanocoulomb per Cubic Meter (nC/m³)"},{"value":"nanocoulombPerCubicCentimeter","label":"Nanocoulomb per Cubic Centimeter (nC/cm³)"},{"value":"picocoulombPerCubicMeter","label":"Picocoulomb per Cubic Meter (pC/m³)"},{"value":"picocoulombPerCubicCentimeter","label":"Picocoulomb per Cubic Centimeter (pC/cm³)"},{"value":"statcoulombPerCubicCentimeter","label":"Statcoulomb per Cubic Centimeter (statC/cm³)"},{"value":"abcoulombPerCubicMeter","label":"Abcoulomb per Cubic Meter (abC/m³)"}],"converterType":"volumeChargeDensity","commonConversions":[{"from":"coulombPerCubicMeter","to":"microcoulombPerCubicMeter","text":"C/m³ → μC/m³"},{"from":"microcoulombPerCubicMeter","to":"coulombPerCubicMeter","text":"μC/m³ → C/m³"},{"from":"coulombPerCubicMeter","to":"coulombPerCubicCentimeter","text":"C/m³ → C/cm³"},{"from":"microcoulombPerCubicCentimeter","to":"nanocoulombPerCubicCentimeter","text":"μC/cm³ → nC/cm³"},{"from":"nanocoulombPerCubicMeter","to":"picocoulombPerCubicMeter","text":"nC/m³ → pC/m³"},{"from":"microcoulombPerCubicMillimeter","to":"microcoulombPerCubicCentimeter","text":"μC/mm³ → μC/cm³"}],"examples":[{"text":"Plasma in laboratory: 1 μC/m³","calculation":"1 μC/m³ = 1×10⁻⁶ C/m³ = 1×10⁻¹² C/cm³ = 1000 nC/m³ = 1×10⁶ pC/m³"},{"text":"Charged dielectric: 10 nC/cm³","calculation":"10 nC/cm³ = 10⁻⁵ C/m³ = 0.01 μC/m³ = 10,000 nC/m³ = 1×10⁷ pC/m³"},{"text":"Electret material: 100 μC/m³","calculation":"100 μC/m³ = 1×10⁻⁴ C/m³ = 1×10⁻¹⁰ C/cm³ = 100,000 nC/m³ = 1×10⁸ pC/m³"},{"text":"Ionized gas: 1 nC/m³","calculation":"1 nC/m³ = 1×10⁻⁹ C/m³ = 0.001 μC/m³ = 1×10⁻¹⁵ C/cm³ = 1000 pC/m³"},{"text":"Space charge in tube: 50 pC/cm³","calculation":"50 pC/cm³ = 5×10⁻⁸ C/m³ = 0.05 μC/m³ = 50,000 nC/m³ = 5×10⁷ pC/m³"},{"text":"Charged aerosol: 0.1 μC/m³","calculation":"0.1 μC/m³ = 1×10⁻⁷ C/m³ = 1×10⁻¹³ C/cm³ = 100 nC/m³ = 1×10⁵ pC/m³"}],"explanation":"$7"}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","LI4KoLEiQicTb6sX1HY16",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

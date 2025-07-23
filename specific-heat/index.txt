@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","1636","static/chunks/app/specific-heat/page-90415b6e9734fefe.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:T58e,
+Specific heat (also called specific heat capacity) is the amount of energy required to raise the temperature of one unit mass of a substance by one degree of temperature. It is an intensive property that depends on the material but not on the amount of material.
+
+The SI unit for specific heat is joules per kilogram kelvin (J/(kg·K)). In the Imperial system, BTU per pound Fahrenheit (BTU/(lb·°F)) is commonly used.
+
+**Key characteristics:**
+• **Higher specific heat** = more energy needed to change temperature (thermal inertia)
+• **Lower specific heat** = less energy needed to change temperature (quick response)
+• **Water has very high specific heat** = excellent thermal buffer
+
+**Common specific heat values:**
+• **Water**: 4,184 J/(kg·K) - highest among common liquids
+• **Air**: 1,005 J/(kg·K) - important for HVAC calculations
+• **Aluminum**: 897 J/(kg·K) - lightweight with good heat capacity
+• **Steel**: 460 J/(kg·K) - typical for structural metals
+• **Concrete**: 880 J/(kg·K) - important for building thermal mass
+
+**Applications:**
+- HVAC system design and energy calculations
+- Thermal energy storage systems
+- Materials selection for heat management
+- Food processing and cooking
+- Chemical process design
+- Climate modeling
+
+Understanding specific heat is crucial for thermal analysis, energy storage design, and predicting temperature changes in heating and cooling processes.
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","specific-heat",""],"i":false,"f":[[["",{"children":["specific-heat",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["specific-heat",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Specific Heat Converter","description":"Convert between J/(kg·K), BTU/(lb·°F), and other specific heat units.","explanation":"$7","units":[{"value":"joulePerKilogramKelvin","label":"Joule per Kilogram Kelvin (J/(kg·K))"},{"value":"btuPerPoundFahrenheit","label":"BTU per Pound Fahrenheit (BTU/(lb·°F))"},{"value":"caloriePerGramCelsius","label":"Calorie per Gram Celsius (cal/(g·°C))"},{"value":"kilocaloriePerKilogramCelsius","label":"Kilocalorie per Kilogram Celsius (kcal/(kg·°C))"},{"value":"joulePerGramKelvin","label":"Joule per Gram Kelvin (J/(g·K))"}],"converterType":"specificHeat","icon":"🔥","commonConversions":[{"from":"joulePerKilogramKelvin","to":"btuPerPoundFahrenheit","text":"J/(kg·K) → BTU/(lb·°F)"},{"from":"btuPerPoundFahrenheit","to":"joulePerKilogramKelvin","text":"BTU/(lb·°F) → J/(kg·K)"},{"from":"joulePerKilogramKelvin","to":"caloriePerGramCelsius","text":"J/(kg·K) → cal/(g·°C)"},{"from":"caloriePerGramCelsius","to":"joulePerKilogramKelvin","text":"cal/(g·°C) → J/(kg·K)"}],"examples":[{"text":"Water specific heat: 4184 J/(kg·K)","calculation":"4184 J/(kg·K) = 1.0 BTU/(lb·°F) = 1.0 cal/(g·°C) = 1.0 kcal/(kg·°C)"},{"text":"Aluminum specific heat: 897 J/(kg·K)","calculation":"897 J/(kg·K) = 0.214 BTU/(lb·°F) = 0.214 cal/(g·°C)"},{"text":"Steel specific heat: 460 J/(kg·K)","calculation":"460 J/(kg·K) = 0.110 BTU/(lb·°F) = 0.110 cal/(g·°C)"},{"text":"Air specific heat: 1005 J/(kg·K)","calculation":"1005 J/(kg·K) = 0.240 BTU/(lb·°F) = 0.240 cal/(g·°C)"}]}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","XyZvT0EdyLYWVi4x-1YEh",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

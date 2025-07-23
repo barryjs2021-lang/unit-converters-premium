@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","2110","static/chunks/app/magnetic-flux-density/page-fddfbb9824bab370.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:T815,
+Magnetic flux density (also called magnetic induction) is a vector field that describes the magnetic force on moving electric charges, electric currents, and magnetic materials. It is fundamental to electromagnetics and magnetic field analysis.
+
+Common magnetic flux density units:
+• **Tesla (T)**: SI unit for magnetic flux density. Named after Nikola Tesla, used in scientific and engineering applications.
+• **Gauss (G)**: CGS unit commonly used in engineering and everyday applications. 1 T = 10,000 G.
+• **Wb/m² (Weber per square meter)**: Equivalent to Tesla, emphasizing the flux per unit area relationship.
+• **mT, μT, nT**: Smaller Tesla units for weak magnetic fields like Earth's field and biological applications.
+• **kG, mG, μG**: Gauss subdivisions for various field strengths.
+• **Gamma (γ)**: Equal to 1 nT, commonly used in geophysics and space physics.
+
+Key relationships:
+- 1 T = 10,000 G = 1 Wb/m²
+- 1 mT = 10 G = 1,000,000 nT
+- 1 μT = 0.01 G = 1000 nT = 1000 γ
+- Earth's magnetic field: ~25-65 μT (0.25-0.65 G)
+
+Typical magnetic flux density ranges:
+- **Earth's Field**: 25-65 μT (geomagnetic field)
+- **Permanent Magnets**: 0.01-1.4 T (neodymium magnets up to 1.4 T)
+- **MRI Scanners**: 0.5-11.7 T (medical and research)
+- **Laboratory Magnets**: Up to 45 T (superconducting)
+- **Neutron Stars**: Up to 10^8 T (extremely strong fields)
+
+Magnetic flux density is important in:
+- **Medical Imaging**: MRI scanners, magnetic therapy devices
+- **Electric Motors**: Motor design, efficiency optimization
+- **Geophysics**: Earth's magnetic field study, navigation systems
+- **Materials Science**: Magnetic materials characterization
+- **Electronics**: Magnetic storage, transformers, inductors
+- **Research**: Particle accelerators, fusion reactors, superconductivity
+
+Understanding magnetic flux density helps in:
+- Designing electromagnetic devices and systems
+- Analyzing magnetic field distributions and interactions
+- Calculating forces on current-carrying conductors
+- Optimizing magnetic shielding and field control systems
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","magnetic-flux-density",""],"i":false,"f":[[["",{"children":["magnetic-flux-density",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["magnetic-flux-density",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Magnetic Flux Density Converter","description":"Convert between Tesla, Gauss, Weber/m², and other magnetic flux density units.","explanation":"$7","units":[{"value":"tesla","label":"Tesla (T)"},{"value":"gauss","label":"Gauss (G)"},{"value":"weber_per_square_meter","label":"Weber per Square Meter (Wb/m²)"},{"value":"millitesla","label":"Millitesla (mT)"},{"value":"microtesla","label":"Microtesla (μT)"},{"value":"nanotesla","label":"Nanotesla (nT)"},{"value":"kilotesla","label":"Kilotesla (kT)"},{"value":"kilogauss","label":"Kilogauss (kG)"},{"value":"milligauss","label":"Milligauss (mG)"},{"value":"microgauss","label":"Microgauss (μG)"},{"value":"gamma","label":"Gamma (γ)"},{"value":"maxwell_per_square_centimeter","label":"Maxwell per Square Centimeter (Mx/cm²)"}],"converterType":"magneticFluxDensity","icon":"🧲","commonConversions":[{"from":"tesla","to":"gauss","text":"T → G"},{"from":"gauss","to":"tesla","text":"G → T"},{"from":"millitesla","to":"gauss","text":"mT → G"},{"from":"microtesla","to":"milligauss","text":"μT → mG"},{"from":"nanotesla","to":"gamma","text":"nT → γ"},{"from":"weber_per_square_meter","to":"tesla","text":"Wb/m² → T"}],"examples":[{"text":"Earth's magnetic field: 50 μT","calculation":"50 μT = 0.00005 T = 0.5 G = 50 gamma"},{"text":"MRI scanner: 1.5 T","calculation":"1.5 T = 15000 G = 1500000 mG"},{"text":"Permanent magnet: 0.1 T","calculation":"0.1 T = 1000 G = 100 mT"},{"text":"Geomagnetic storm: 100 nT","calculation":"100 nT = 0.0001 mT = 0.001 G = 100 γ"}]}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","oz_wD01DC63uuoXxMcVU-",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

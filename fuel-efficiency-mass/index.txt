@@ -1,0 +1,51 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","4234","static/chunks/app/fuel-efficiency-mass/page-82c5968542258f68.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:T644,
+Fuel efficiency by mass measures how far a vehicle can travel per unit mass of fuel consumed. This metric is particularly useful for comparing different fuel types and understanding the energy density impact on transportation efficiency.
+
+Common fuel efficiency-mass units:
+• **km/kg (kilometer per kilogram)**: SI unit for fuel efficiency by mass. Used in scientific and engineering calculations.
+• **mi/lb (miles per pound)**: Imperial unit commonly used in aviation and marine applications.
+• **km/tonne (kilometers per metric ton)**: Used for heavy vehicles, ships, and industrial applications.
+• **m/g (meters per gram)**: Used for precise measurements and small-scale applications.
+• **ft/oz (feet per ounce)**: Used for small engines and model vehicles.
+
+Key relationships:
+- Higher values indicate better fuel efficiency
+- 1 km/kg = 0.4536 mi/lb = 1000 m/g
+- Different from volume-based efficiency (mpg, km/L)
+- Relates directly to fuel energy density
+
+Fuel efficiency by mass is important in:
+- **Aviation**: Aircraft performance analysis, fuel planning
+- **Marine Transport**: Ship efficiency, cargo optimization
+- **Heavy Industry**: Mining equipment, construction machinery
+- **Alternative Fuels**: Comparing hydrogen, electric, biofuel efficiency
+- **Research**: Energy density studies, fuel technology development
+
+Understanding mass-based efficiency helps in:
+- Comparing different fuel types on energy content basis
+- Optimizing payload vs fuel consumption trade-offs
+- Evaluating alternative propulsion technologies
+- Calculating total system efficiency including fuel weight
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","fuel-efficiency-mass",""],"i":false,"f":[[["",{"children":["fuel-efficiency-mass",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["fuel-efficiency-mass",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Fuel Efficiency - Mass Converter","description":"Convert between km/kg, mi/lb, and other fuel efficiency by mass units.","explanation":"$7","units":[{"value":"kmPerKg","label":"Kilometer per Kilogram (km/kg)"},{"value":"milesPerPound","label":"Miles per Pound (mi/lb)"},{"value":"kilometersPerTon","label":"Kilometers per Ton (km/tonne)"},{"value":"milesPerTon","label":"Miles per Metric Ton (mi/tonne)"},{"value":"milesPerShortTon","label":"Miles per Short Ton (mi/short ton)"},{"value":"metersPerGram","label":"Meters per Gram (m/g)"},{"value":"feetPerOunce","label":"Feet per Ounce (ft/oz)"},{"value":"yardsPerPound","label":"Yards per Pound (yd/lb)"}],"converterType":"fuelEfficiencyMass","icon":"⚖️","commonConversions":[{"from":"kmPerKg","to":"milesPerPound","text":"km/kg → mi/lb"},{"from":"milesPerPound","to":"kmPerKg","text":"mi/lb → km/kg"},{"from":"kilometersPerTon","to":"milesPerTon","text":"km/tonne → mi/tonne"},{"from":"metersPerGram","to":"feetPerOunce","text":"m/g → ft/oz"},{"from":"milesPerShortTon","to":"kilometersPerTon","text":"mi/short ton → km/tonne"},{"from":"yardsPerPound","to":"kmPerKg","text":"yd/lb → km/kg"}],"examples":[{"text":"Hybrid vehicle: 25 km/kg","calculation":"25 km/kg = 11.34 mi/lb = 25000 m/g"},{"text":"Commercial truck: 3 mi/lb","calculation":"3 mi/lb = 6.61 km/kg = 6610 m/g"},{"text":"Aircraft efficiency: 15 km/kg","calculation":"15 km/kg = 6.8 mi/lb = 15000 m/g"},{"text":"Ship cargo: 0.5 km/tonne","calculation":"0.5 km/tonne = 0.227 mi/tonne = 500 m/g"}]}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","c6jpkUpXXszsz44Eb5OqE",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

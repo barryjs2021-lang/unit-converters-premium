@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///home/project/unit-converters/src/app/ClientBody.tsx"],"sourcesContent":["\"use client\";\n\nexport default function ClientBody({ children }: { children: React.ReactNode }) {\n  return <>{children}</>;\n}\n"],"names":[],"mappings":";;;;;;AAAA;;AAEe,SAAS,WAAW,EAAE,QAAQ,EAAiC;IAC5E,qBAAO;kBAAG;;AACZ;KAFwB","debugId":null}}]
+}

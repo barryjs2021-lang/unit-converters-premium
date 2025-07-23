@@ -1,0 +1,94 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","7553","static/chunks/app/luminous-intensity/page-eb881a5f908b4df3.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:Tdcf,
+Luminous intensity is a photometric quantity that measures the luminous flux emitted by a light source in a given direction per unit solid angle. It quantifies how bright a light source appears from a specific direction.
+
+The SI unit for luminous intensity is the candela (cd), one of the seven base SI units.
+
+**Key characteristics:**
+• **Directional quantity** - varies with viewing direction
+• **Human eye response** - weighted by photopic vision sensitivity
+• **Solid angle dependency** - luminous flux per steradian
+• **Point source approximation** - for sources small relative to distance
+
+**Fundamental relationships:**
+• **Luminous flux**: Φ = I × Ω (intensity × solid angle)
+• **Illuminance**: E = I × cos(θ)/r² (inverse square law)
+• **Luminance**: L = I/A_projected (intensity per projected area)
+• **Candela definition**: 1 cd = 1/683 W/sr at 540 THz (green light)
+
+**Historical candle standards:**
+• **International Candle** (≈1.02 cd) - Early international standard
+• **Hefner Candle** (≈0.92 cd) - German amyl acetate flame standard
+• **Carcel** (≈9.74 cd) - French colza oil lamp standard
+• **Violle Standard** (≈60 cd) - Platinum at melting point
+• **Spermaceti Candle** (≈1.02 cd) - Whale oil candle standard
+
+**Applications:**
+• **LED specification** - forward luminous intensity ratings
+• **Automotive lighting** - headlight and signal brightness
+• **Aviation lighting** - runway and navigation light standards
+• **Marine navigation** - lighthouse and beacon intensity
+• **Display technology** - backlight and indicator brightness
+• **Architectural lighting** - accent and task lighting design
+
+**Measurement considerations:**
+• **Viewing angle** - intensity varies with direction
+• **Distance independence** - for point sources
+• **Spectral sensitivity** - photopic vision weighting
+• **Temporal effects** - flicker and modulation impacts
+
+**Common intensity ranges:**
+• **LEDs**: 1-10,000 mcd (indicators to high-power)
+• **Incandescent bulbs**: 10-1000 cd (household to automotive)
+• **HID lamps**: 100-50,000 cd (streetlights to stadium)
+• **Laser pointers**: 1-1000 cd (Class 1 to Class 3R)
+• **Aircraft beacons**: 1000-100,000 cd (navigation safety)
+
+**LED specifications:**
+• **Low power**: 1-100 mcd (status indicators)
+• **Standard**: 100-10,000 mcd (general illumination)
+• **High power**: 1-100 cd (automotive, flashlights)
+• **Ultra high power**: 100+ cd (search lights, projection)
+
+**Photometric relationships:**
+• **Luminous efficacy**: η = Φ/P (lumens per watt)
+• **Beam angle**: determines light distribution pattern
+• **Peak intensity**: maximum intensity in beam pattern
+• **Mean spherical intensity**: average over all directions
+
+**Design considerations:**
+• **Beam shaping** - reflectors and lenses modify distribution
+• **Color temperature** - affects perceived brightness
+• **Driver current** - directly affects LED intensity
+• **Thermal management** - heat affects light output
+• **Optical efficiency** - packaging and extraction methods
+
+**Standards and testing:**
+• **CIE photometry** - international lighting standards
+• **IESNA procedures** - illumination engineering methods
+• **Goniophotometry** - directional intensity mapping
+• **Integrating spheres** - total flux measurement
+
+Understanding luminous intensity is essential for lighting designers, LED engineers, automotive engineers, and anyone working with directional lighting applications or photometric measurements.
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","luminous-intensity",""],"i":false,"f":[[["",{"children":["luminous-intensity",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["luminous-intensity",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Luminous Intensity Converter","description":"Convert between candela, millicandela, candle, and other luminous intensity units for LED and lighting applications.","icon":"🕯️","units":[{"value":"candela","label":"Candela (cd)"},{"value":"millicandela","label":"Millicandela (mcd)"},{"value":"kilocandela","label":"Kilocandela (kcd)"},{"value":"candle","label":"International Candle"},{"value":"hefnerCandle","label":"Hefner Candle"},{"value":"carcel","label":"Carcel"},{"value":"bougie","label":"Bougie Décimale"},{"value":"violle","label":"Violle Standard"},{"value":"pentaneCandle","label":"Pentane Candle"},{"value":"spermaceti","label":"Spermaceti Candle"}],"converterType":"luminousIntensity","commonConversions":[{"from":"candela","to":"millicandela","text":"cd → mcd"},{"from":"millicandela","to":"candela","text":"mcd → cd"},{"from":"candela","to":"kilocandela","text":"cd → kcd"},{"from":"candle","to":"candela","text":"candle → cd"},{"from":"violle","to":"candela","text":"Violle → cd"},{"from":"carcel","to":"candela","text":"Carcel → cd"}],"examples":[{"text":"LED bulb: 100 mcd","calculation":"100 mcd = 0.1 cd = 0.0001 kcd = 0.098 candle"},{"text":"Standard candle: 1 cd","calculation":"1 cd = 1000 mcd = 0.001 kcd = 0.98 candle = 1.09 hefner"},{"text":"High-power LED: 50 cd","calculation":"50 cd = 50,000 mcd = 0.05 kcd = 49 candle = 54.3 hefner"},{"text":"Lighthouse beam: 1000 cd","calculation":"1000 cd = 1,000,000 mcd = 1 kcd = 980 candle = 16.7 Violle"},{"text":"Car headlight: 500 cd","calculation":"500 cd = 500,000 mcd = 0.5 kcd = 490 candle = 543 hefner"},{"text":"Flashlight: 10 cd","calculation":"10 cd = 10,000 mcd = 0.01 kcd = 9.8 candle = 10.9 hefner"}],"explanation":"$7"}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","RTpbC2RzPQrBUxMWe1mWo",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

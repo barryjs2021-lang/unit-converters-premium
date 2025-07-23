@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","6732","static/chunks/app/illuminance/page-7c4f9379800c41f3.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:T7c5,
+Illuminance is the luminous flux incident on a surface per unit area. It measures how much light falls on a surface, which is crucial for lighting design and visual comfort.
+
+The SI unit for illuminance is the lux (lx), defined as one lumen per square meter (lm/m²).
+
+**Key characteristics:**
+• **Surface illumination** - measures light falling on surfaces
+• **Distance dependent** - follows inverse square law
+• **Cosine law** - varies with angle of incidence
+• **Human perception** - closely related to brightness perception
+
+**Common illuminance levels:**
+• **Direct sunlight**: 32,000-100,000 lx
+• **Overcast day**: 1,000-10,000 lx
+• **Office lighting**: 300-500 lx
+• **Home lighting**: 50-200 lx
+• **Street lighting**: 5-20 lx
+• **Full moon**: 0.05-0.3 lx
+• **Starlight**: 0.0001-0.001 lx
+
+**Applications:**
+• **Architectural lighting** - building illumination design
+• **Photography/cinematography** - exposure calculations
+• **Workplace safety** - minimum lighting requirements
+• **Energy efficiency** - optimizing lighting systems
+• **Circadian lighting** - health and wellness applications
+• **Sports facilities** - performance and safety standards
+
+**Measurement considerations:**
+• **Photopic response** - human eye sensitivity curve
+• **Color temperature** - affects perception of brightness
+• **Uniformity** - distribution across surfaces
+• **Glare control** - preventing excessive contrast
+
+**Design standards:**
+• **Office work**: 300-500 lx
+• **Precision tasks**: 750-1500 lx
+• **Reading**: 200-500 lx
+• **Corridors**: 100-200 lx
+• **Parking areas**: 5-50 lx
+• **Emergency lighting**: 1-10 lx
+
+**Key relationships:**
+- **Illuminance = Luminous flux / Area**
+- **Inverse square law**: E ∝ 1/d²
+- **Lambert's cosine law**: E = I cos(θ) / d²
+
+Understanding illuminance is essential for lighting designers, architects, photographers, and anyone involved in creating optimal visual environments for human activities.
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","illuminance",""],"i":false,"f":[[["",{"children":["illuminance",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["illuminance",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Illuminance Converter","description":"Convert between lux, foot-candle, phot, and other illuminance units for lighting design.","icon":"💡","units":[{"value":"lux","label":"Lux (lx)"},{"value":"footCandle","label":"Foot-candle (fc)"},{"value":"phot","label":"Phot (ph)"},{"value":"millilux","label":"Millilux (mlx)"},{"value":"kilolux","label":"Kilolux (klx)"},{"value":"lumenPerSquareMeter","label":"Lumen per Square Meter (lm/m²)"},{"value":"lumenPerSquareFoot","label":"Lumen per Square Foot (lm/ft²)"},{"value":"lumenPerSquareCentimeter","label":"Lumen per Square Centimeter (lm/cm²)"},{"value":"nox","label":"Nox (nx)"}],"converterType":"illuminance","commonConversions":[{"from":"lux","to":"footCandle","text":"lx → fc"},{"from":"footCandle","to":"lux","text":"fc → lx"},{"from":"lux","to":"phot","text":"lx → ph"},{"from":"phot","to":"lux","text":"ph → lx"},{"from":"kilolux","to":"lux","text":"klx → lx"},{"from":"lux","to":"millilux","text":"lx → mlx"}],"examples":[{"text":"Sunlight (direct): 100,000 lx","calculation":"100,000 lx = 9,290 fc = 10 ph = 100 klx"},{"text":"Office lighting: 500 lx","calculation":"500 lx = 46.5 fc = 0.05 ph = 0.5 klx"},{"text":"Living room: 50 lx","calculation":"50 lx = 4.65 fc = 0.005 ph = 0.05 klx = 50,000 mlx"},{"text":"Full moon: 0.25 lx","calculation":"0.25 lx = 0.023 fc = 0.000025 ph = 250 mlx"},{"text":"Starlight: 0.0001 lx","calculation":"0.0001 lx = 0.0000093 fc = 0.1 mlx = 0.1 nx"},{"text":"Operating room: 1000 lx","calculation":"1000 lx = 93 fc = 0.1 ph = 1 klx"}],"explanation":"$7"}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","I12j3MFukvI8ySEcA9zRA",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

@@ -1,0 +1,57 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","9803","static/chunks/app/heat-transfer-coefficient/page-b6250be5eaa7ceb2.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:T752,
+Heat transfer coefficient quantifies the convective heat transfer between a surface and a fluid. It's essential for thermal system design, heat exchanger analysis, and energy efficiency calculations.
+
+Common heat transfer coefficient units:
+• **W/(m²⋅K)**: SI unit for convective heat transfer coefficient. Standard for engineering calculations.
+• **BTU/(h⋅ft²⋅°F)**: Imperial unit commonly used in HVAC and mechanical engineering.
+• **cal/(s⋅cm²⋅°C)**: CGS unit used in materials science and laboratory applications.
+• **kcal/(h⋅m²⋅°C)**: Practical metric unit for large-scale thermal analysis.
+• **kW/(m²⋅K)**: Used for high-intensity heat transfer applications.
+
+Key relationships:
+- Higher values indicate more efficient heat transfer
+- 1 W/(m²⋅K) = 0.176 BTU/(h⋅ft²⋅°F) = 0.860 kcal/(h⋅m²⋅°C)
+- Depends on fluid properties, flow conditions, and surface geometry
+- Critical parameter in Newton's law of cooling: q = h⋅A⋅ΔT
+
+Typical coefficient ranges:
+- **Free Air Convection**: 5-25 W/(m²⋅K)
+- **Forced Air Convection**: 25-250 W/(m²⋅K)
+- **Water Convection**: 500-10,000 W/(m²⋅K)
+- **Boiling/Condensation**: 2,500-100,000 W/(m²⋅K)
+
+Heat transfer coefficient is important in:
+- **Heat Exchanger Design**: Shell-and-tube, plate, compact heat exchangers
+- **HVAC Systems**: Radiators, cooling coils, heat pumps, chillers
+- **Industrial Processes**: Chemical reactors, distillation, heat treatment
+- **Power Generation**: Boilers, condensers, cooling systems
+- **Electronics Cooling**: Heat sinks, thermal interface materials
+
+Understanding heat transfer coefficients helps in:
+- Optimizing heat exchanger performance and sizing
+- Calculating thermal resistance and overall heat transfer rates
+- Designing efficient cooling and heating systems
+- Selecting appropriate heat transfer enhancement techniques
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","heat-transfer-coefficient",""],"i":false,"f":[[["",{"children":["heat-transfer-coefficient",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["heat-transfer-coefficient",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Heat Transfer Coefficient Converter","description":"Convert between W/(m²⋅K), BTU/(h⋅ft²⋅°F), and other heat transfer coefficient units.","explanation":"$7","units":[{"value":"wattPerSquareMeterKelvin","label":"Watt per Square Meter Kelvin (W/(m²⋅K))"},{"value":"btuPerHourSquareFootFahrenheit","label":"BTU per Hour per Square Foot Fahrenheit (BTU/(h⋅ft²⋅°F))"},{"value":"caloriePerSecondSquareCentimeterCelsius","label":"Calorie per Second per Square Centimeter Celsius (cal/(s⋅cm²⋅°C))"},{"value":"kilocaloriePerHourSquareMeterCelsius","label":"Kilocalorie per Hour per Square Meter Celsius (kcal/(h⋅m²⋅°C))"},{"value":"wattPerSquareCentimeterKelvin","label":"Watt per Square Centimeter Kelvin (W/(cm²⋅K))"},{"value":"kilowattPerSquareMeterKelvin","label":"Kilowatt per Square Meter Kelvin (kW/(m²⋅K))"},{"value":"joulePerSecondSquareMeterKelvin","label":"Joule per Second per Square Meter Kelvin (J/(s⋅m²⋅K))"},{"value":"chuPerHourSquareFootFahrenheit","label":"CHU per Hour per Square Foot Fahrenheit (CHU/(h⋅ft²⋅°F))"}],"converterType":"heatTransferCoefficient","icon":"🔄","commonConversions":[{"from":"wattPerSquareMeterKelvin","to":"btuPerHourSquareFootFahrenheit","text":"W/(m²⋅K) → BTU/(h⋅ft²⋅°F)"},{"from":"btuPerHourSquareFootFahrenheit","to":"wattPerSquareMeterKelvin","text":"BTU/(h⋅ft²⋅°F) → W/(m²⋅K)"},{"from":"kilowattPerSquareMeterKelvin","to":"wattPerSquareMeterKelvin","text":"kW/(m²⋅K) → W/(m²⋅K)"},{"from":"wattPerSquareCentimeterKelvin","to":"wattPerSquareMeterKelvin","text":"W/(cm²⋅K) → W/(m²⋅K)"},{"from":"kilocaloriePerHourSquareMeterCelsius","to":"wattPerSquareMeterKelvin","text":"kcal/(h⋅m²⋅°C) → W/(m²⋅K)"},{"from":"joulePerSecondSquareMeterKelvin","to":"wattPerSquareMeterKelvin","text":"J/(s⋅m²⋅K) → W/(m²⋅K)"}],"examples":[{"text":"Air convection: 25 W/(m²⋅K)","calculation":"25 W/(m²⋅K) = 4.4 BTU/(h⋅ft²⋅°F) = 21.5 kcal/(h⋅m²⋅°C)"},{"text":"Water convection: 500 W/(m²⋅K)","calculation":"500 W/(m²⋅K) = 88.1 BTU/(h⋅ft²⋅°F) = 0.05 W/(cm²⋅K)"},{"text":"Steam condensation: 10000 W/(m²⋅K)","calculation":"10000 W/(m²⋅K) = 1761 BTU/(h⋅ft²⋅°F) = 10 kW/(m²⋅K)"},{"text":"Oil heating: 100 BTU/(h⋅ft²⋅°F)","calculation":"100 BTU/(h⋅ft²⋅°F) = 568 W/(m²⋅K) = 488 kcal/(h⋅m²⋅°C)"}]}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","rF-6iWg0JIJqWWWzuqkE5",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

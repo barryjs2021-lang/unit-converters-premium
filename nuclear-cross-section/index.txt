@@ -1,0 +1,110 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","3756","static/chunks/app/nuclear-cross-section/page-bd982e2eac583d30.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:Tf44,
+Nuclear cross section is a measure of the probability of interaction between particles, expressed as an effective area. The barn (b) is the standard unit, originally defined as "big as a barn" for nuclear interactions.
+
+**Cross section fundamentals:**
+
+**Definition and meaning:**
+• **Cross section (σ)** represents effective target area for interaction
+• **Reaction rate** = flux × number density × cross section
+• **Probability** proportional to cross section for given geometry
+• **Not physical area** but effective interaction probability
+
+**The barn unit:**
+• **1 barn = 10⁻²⁴ cm² = 10⁻²⁸ m²**
+• **Origin**: "Big as a barn" - large for nuclear standards
+• **Typical nuclear size**: ~1 barn (geometric cross section)
+• **Etymology**: World War II Manhattan Project terminology
+
+**Nuclear physics cross sections:**
+
+**Nuclear reactions:**
+• **Geometric cross section**: π(A¹/³ × 1.2 fm)² ≈ A²/³ × 1 barn
+• **Neutron absorption**: 0.1 mb to 1000 b (varies by isotope)
+• **Nuclear fission**: 1-1000 b (thermal neutrons)
+• **Neutron scattering**: 1-20 b (typical nuclei)
+• **Alpha particle scattering**: 0.1-10 b
+
+**Particle physics cross sections:**
+
+**High energy interactions:**
+• **Proton-proton total**: ~100 mb at LHC energies
+• **Deep inelastic scattering**: μb to nb scale
+• **Weak interactions**: pb to fb scale
+• **Higgs production**: ~50 pb at LHC
+• **New physics searches**: often fb to ab scale
+
+**Measurement techniques:**
+• **Transmission method**: σ = ln(I₀/I)/(n×t)
+• **Direct counting**: Rate = Φ × N × σ
+• **Luminosity measurement**: σ = R/L (event rate/luminosity)
+• **Monte Carlo simulation**: Compare data to theory
+
+**Energy dependence:**
+• **1/v law**: σ ∝ 1/v for thermal neutrons
+• **Resonances**: Sharp peaks at specific energies
+• **Threshold behavior**: σ ∝ (E-Eth)ⁿ near thresholds
+• **Asymptotic behavior**: log(s) rise at high energies
+
+**Types of cross sections:**
+• **Total cross section**: Sum of all interaction channels
+• **Elastic scattering**: No energy transfer to internal states
+• **Inelastic scattering**: Excitation or breakup
+• **Absorption**: Particle disappears (capture, fission)
+• **Differential**: dσ/dΩ (angular distribution)
+
+**Nuclear reactor physics:**
+• **Thermal neutron absorption**: Critical for reactor control
+• **Resonance integrals**: Energy-averaged cross sections
+• **Four factor formula**: Criticality depends on cross sections
+• **Poison cross sections**: Neutron absorbers (Xe-135, Sm-149)
+
+**Experimental facilities:**
+• **Research reactors**: Thermal neutron cross sections
+• **Accelerators**: Fast neutron and charged particle data
+• **Colliding beam experiments**: High energy particle physics
+• **Time-of-flight facilities**: Energy-resolved measurements
+
+**Applications:**
+• **Nuclear reactor design**: Criticality and safety analysis
+• **Radiation shielding**: Attenuation calculations
+• **Medical physics**: Radiation therapy and imaging
+• **Nuclear astrophysics**: Stellar nucleosynthesis rates
+• **Particle accelerator design**: Beam-beam interactions
+• **Nuclear weapons**: Chain reaction calculations
+
+**Cross section databases:**
+• **ENDF/B**: Evaluated Nuclear Data Files
+• **JEFF**: Joint Evaluated Fission and Fusion files
+• **JENDL**: Japanese Evaluated Nuclear Data Library
+• **PDG**: Particle Data Group compilations
+
+**Theoretical calculations:**
+• **Optical model**: Nuclear scattering and absorption
+• **R-matrix theory**: Resonance analysis
+• **Quantum mechanical**: Schrödinger equation solutions
+• **Many-body methods**: Complex nuclear structure effects
+
+Understanding nuclear cross sections is crucial for nuclear engineering, particle physics experiments, radiation protection, nuclear astrophysics, and high-energy physics research at accelerator facilities.
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","nuclear-cross-section",""],"i":false,"f":[[["",{"children":["nuclear-cross-section",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["nuclear-cross-section",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Nuclear Cross Section Converter","description":"Convert between barn, millibarn, picobarn, femtobarn, and other nuclear physics cross section units.","icon":"🎯","units":[{"value":"barn","label":"Barn (b)"},{"value":"millibarn","label":"Millibarn (mb)"},{"value":"microbarn","label":"Microbarn (μb)"},{"value":"nanobarn","label":"Nanobarn (nb)"},{"value":"picobarn","label":"Picobarn (pb)"},{"value":"femtobarn","label":"Femtobarn (fb)"},{"value":"attobarn","label":"Attobarn (ab)"},{"value":"squareMeter","label":"Square Meter (m²)"},{"value":"squareCentimeter","label":"Square Centimeter (cm²)"},{"value":"squareMillimeter","label":"Square Millimeter (mm²)"}],"converterType":"nuclearCrossSection","commonConversions":[{"from":"barn","to":"squareCentimeter","text":"b → cm²"},{"from":"millibarn","to":"barn","text":"mb → b"},{"from":"picobarn","to":"femtobarn","text":"pb → fb"},{"from":"barn","to":"squareMeter","text":"b → m²"},{"from":"microbarn","to":"nanobarn","text":"μb → nb"},{"from":"femtobarn","to":"attobarn","text":"fb → ab"}],"examples":[{"text":"Nuclear geometric cross section: 1 b","calculation":"1 b = 10⁻²⁴ cm² = 10⁻²⁸ m² = 1000 mb = 10⁶ μb"},{"text":"Neutron absorption: 100 mb","calculation":"100 mb = 0.1 b = 10⁻²⁵ cm² = 100,000 μb = 10⁸ nb"},{"text":"High energy scattering: 1 μb","calculation":"1 μb = 10⁻⁶ b = 10⁻³⁰ cm² = 1000 nb = 10⁶ pb"},{"text":"Particle physics: 10 pb","calculation":"10 pb = 10⁻¹¹ b = 10⁻³⁵ cm² = 10 fb = 10,000 ab"},{"text":"LHC Higgs production: 50 pb","calculation":"50 pb = 5×10⁻¹¹ b = 50 fb = 50,000 ab"},{"text":"Geometric nuclear radius: 10 fm","calculation":"Area = π(10 fm)² = 314 fm² = 0.314 b = 314 mb"}],"explanation":"$7"}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","6kT6BM9sRklBeUbL-LHT5",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

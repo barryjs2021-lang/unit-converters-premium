@@ -1,0 +1,107 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","418","static/chunks/app/nuclear-physics-energy/page-65395545bdc5bdd8.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:Td01,
+Nuclear and particle physics energy units span an enormous range, from atomic binding energies to the highest energy cosmic rays. The electron volt (eV) and its multiples are the standard units for expressing energies in atomic, nuclear, and particle physics.
+
+**Fundamental energy scales:**
+
+**Atomic Physics (eV scale):**
+• **Chemical bonds**: 1-10 eV
+• **Atomic ionization**: 5-25 eV (hydrogen = 13.6 eV)
+• **X-ray absorption edges**: 100 eV - 100 keV
+• **Inner shell binding**: keV range
+
+**Nuclear Physics (MeV scale):**
+• **Nuclear binding energy**: 1-10 MeV per nucleon
+• **Alpha decay**: 4-9 MeV
+• **Beta decay**: 0.1-10 MeV
+• **Gamma ray transitions**: keV to MeV
+• **Nuclear reactions**: MeV range
+
+**Particle Physics (GeV-TeV scale):**
+• **Proton rest mass**: 938.3 MeV
+• **W boson mass**: 80.4 GeV
+• **Z boson mass**: 91.2 GeV
+• **Higgs boson mass**: 125 GeV
+• **Top quark mass**: 173 GeV
+
+**High Energy Physics:**
+• **LHC collision energy**: 13 TeV center-of-mass
+• **Cosmic ray primaries**: 10⁹-10²¹ eV
+• **GZK cutoff**: ~6×10¹⁹ eV
+• **Planck energy**: 1.22×10¹⁹ GeV
+
+**Fundamental relationships:**
+• **Mass-energy**: E = mc² (rest mass energy)
+• **Kinetic energy**: E = γmc² - mc² (relativistic)
+• **Photon energy**: E = hf = hc/λ
+• **Thermal energy**: E = kᵦT (thermal motion)
+
+**Unit conversions and constants:**
+• **1 eV = 1.602176634×10⁻¹⁹ J**
+• **1 MeV/c² = 1.782661907×10⁻³⁰ kg**
+• **kᵦT at 300K = 25.9 meV**
+• **1 Rydberg = 13.605693 eV**
+• **1 Hartree = 27.211386 eV**
+
+**Energy measurement techniques:**
+• **Calorimetry**: Total energy absorption
+• **Magnetic spectrometry**: Momentum measurement
+• **Time-of-flight**: Velocity and energy determination
+• **Cherenkov radiation**: Particle identification
+• **Semiconductor detectors**: Direct energy measurement
+
+**Experimental facilities:**
+• **Synchrotron radiation**: keV to MeV X-rays
+• **Linear accelerators**: MeV to GeV electrons
+• **Cyclotrons**: MeV to GeV particles
+• **Storage rings**: GeV scale collision experiments
+• **Large Hadron Collider**: TeV scale proton collisions
+
+**Astrophysical sources:**
+• **Solar neutrinos**: MeV scale
+• **Cosmic ray protons**: GeV to 10²¹ eV
+• **Gamma ray bursts**: MeV to GeV photons
+• **Active galactic nuclei**: TeV scale acceleration
+• **Supernova explosions**: MeV neutrino emission
+
+**Quantum mechanical energy scales:**
+• **Fine structure constant**: α = e²/(4πε₀ℏc) = 1/137
+• **Rydberg energy**: Ry = me⁴/(2(4πε₀)²ℏ²) = 13.6 eV
+• **Bohr radius**: a₀ = 4πε₀ℏ²/(me²) = 0.529 Å
+• **Compton wavelength**: λC = h/(mec) = 2.43×10⁻¹² m
+
+**Temperature equivalence:**
+• **1 eV ↔ 11,604 K** (thermal energy scale)
+• **Room temperature (300K) ↔ 26 meV**
+• **Solar core (15 MK) ↔ 1.3 keV**
+• **Big Bang nucleosynthesis ↔ 0.1 MeV**
+
+**Mass equivalence:**
+• **Electron rest mass**: 0.511 MeV/c²
+• **Proton rest mass**: 938.3 MeV/c²
+• **Neutron rest mass**: 939.6 MeV/c²
+• **Atomic mass unit**: 931.5 MeV/c²
+
+Understanding nuclear and particle physics energy units is essential for atomic physics, nuclear engineering, particle accelerator design, radiation detection, medical physics, and high-energy astrophysics research.
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","nuclear-physics-energy",""],"i":false,"f":[[["",{"children":["nuclear-physics-energy",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["nuclear-physics-energy",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Nuclear Physics Energy Converter","description":"Convert between eV, MeV, GeV, TeV, Joules, and other particle physics energy units.","icon":"⚛️","units":[{"value":"electronVolt","label":"Electron Volt (eV)"},{"value":"kiloelectronVolt","label":"Kiloelectron Volt (keV)"},{"value":"megaelectronVolt","label":"Megaelectron Volt (MeV)"},{"value":"gigaelectronVolt","label":"Gigaelectron Volt (GeV)"},{"value":"teraelectronVolt","label":"Teraelectron Volt (TeV)"},{"value":"petaelectronVolt","label":"Petaelectron Volt (PeV)"},{"value":"joule","label":"Joule (J)"},{"value":"erg","label":"Erg"},{"value":"calorie","label":"Calorie (cal)"},{"value":"rydberg","label":"Rydberg (Ry)"},{"value":"hartree","label":"Hartree (Eh)"},{"value":"kelvin","label":"Kelvin (K)"}],"converterType":"nuclearPhysicsEnergy","commonConversions":[{"from":"electronVolt","to":"joule","text":"eV → J"},{"from":"megaelectronVolt","to":"joule","text":"MeV → J"},{"from":"gigaelectronVolt","to":"megaelectronVolt","text":"GeV → MeV"},{"from":"electronVolt","to":"kelvin","text":"eV → K"},{"from":"rydberg","to":"electronVolt","text":"Ry → eV"},{"from":"hartree","to":"electronVolt","text":"Eh → eV"}],"examples":[{"text":"Hydrogen ionization: 13.6 eV","calculation":"13.6 eV = 1 Ry = 0.5 Eh = 2.18×10⁻¹⁸ J = 157,900 K"},{"text":"Nuclear binding energy: 8 MeV","calculation":"8 MeV = 8×10⁶ eV = 1.28×10⁻¹² J = 9.28×10¹⁰ K"},{"text":"Proton rest energy: 938.3 MeV","calculation":"938.3 MeV = 1.503×10⁻¹⁰ J = 1.09×10¹³ K = 1.673×10⁻²⁷ kg"},{"text":"LHC beam energy: 6.5 TeV","calculation":"6.5 TeV = 6.5×10¹² eV = 1.04×10⁻⁶ J = 7.54×10¹⁶ K"},{"text":"Cosmic ray energy: 10²⁰ eV","calculation":"10²⁰ eV = 100 EeV = 16.0 J = 1.16×10²³ K (Oh-My-God particle)"},{"text":"Room temperature: 300 K","calculation":"300 K = 0.0259 eV = 25.9 meV = 4.14×10⁻²¹ J"}],"explanation":"$7"}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","zdEZcSlkhyUH_yzUeU8T8",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

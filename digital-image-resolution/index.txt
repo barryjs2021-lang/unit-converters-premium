@@ -1,0 +1,99 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","2474","static/chunks/app/digital-image-resolution/page-016564559ee7f8a7.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:Tde0,
+Digital image resolution measures the density of pixels or dots in a digital image or display device. It determines the level of detail that can be reproduced and the sharpness of the final output.
+
+The most common unit is pixels per inch (PPI) for displays and dots per inch (DPI) for printers, though they are often used interchangeably.
+
+**Key characteristics:**
+• **Spatial frequency** - how many discrete elements per unit length
+• **Detail capacity** - higher resolution enables finer detail reproduction
+• **Output medium dependent** - different standards for screens vs. print
+• **Viewing distance factor** - perceived sharpness depends on viewing distance
+
+**Common resolution standards:**
+• **Web/Screen**: 72-96 PPI (historical computer displays)
+• **Standard print**: 150-300 DPI (magazines, books)
+• **High-quality print**: 300-600 DPI (photography, fine art)
+• **Professional print**: 600-2400 DPI (commercial printing)
+• **Mobile displays**: 200-500 PPI (smartphones, tablets)
+
+**Display technologies:**
+• **LCD monitors**: 96-163 PPI (standard to 4K)
+• **Smartphones**: 300-500+ PPI (Retina and beyond)
+• **Tablets**: 150-300 PPI (compromise between size and detail)
+• **TVs**: 30-100 PPI (optimized for viewing distance)
+• **VR headsets**: 400-600 PPI (close viewing distance)
+
+**Printing applications:**
+• **Laser printers**: 600-1200 DPI (text and graphics)
+• **Inkjet printers**: 300-4800 DPI (photo quality)
+• **Commercial printing**: 150-300 LPI (halftone screens)
+• **Large format**: 72-150 DPI (billboards, banners)
+• **Fine art**: 300-600 DPI (gallery quality prints)
+
+**Relationship to image quality:**
+• **Pixel density** affects perceived sharpness
+• **Viewing distance** determines required resolution
+• **Image content** influences optimal resolution choice
+• **Output size** scales resolution requirements
+
+**Technical considerations:**
+• **Native resolution** - optimal display pixel mapping
+• **Scaling algorithms** - interpolation for size changes
+• **Color depth** - bits per pixel affects quality
+• **Compression** - affects detail preservation
+
+**Photography standards:**
+• **Web images**: 72-96 PPI (screen optimization)
+• **Print photos**: 240-300 PPI (photographic quality)
+• **Professional**: 300-600 PPI (commercial photography)
+• **Archive**: 600+ PPI (long-term preservation)
+
+**Design workflows:**
+• **Screen design**: 72-96 PPI base resolution
+• **Print design**: 300 PPI minimum for quality
+• **Vector graphics**: resolution-independent
+• **Bitmap images**: resolution-dependent scaling
+
+**Measurement relationships:**
+• **Linear scaling**: Resolution × 2 = Detail × 2
+• **Area scaling**: Resolution × 2 = File size × 4
+• **Viewing distance**: Closer viewing requires higher PPI
+• **Physical size**: Larger prints need proportionally higher DPI
+
+**Quality thresholds:**
+• **72 PPI**: Minimum web quality
+• **150 PPI**: Acceptable print quality
+• **300 PPI**: High-quality print standard
+• **600 PPI**: Professional print quality
+• **1200+ PPI**: Ultra-high quality applications
+
+**Industry standards:**
+• **Adobe**: 300 PPI for print, 72 PPI for web
+• **Apple Retina**: 326 PPI for phones, 264 PPI for computers
+• **Google**: Variable PPI based on device category
+• **Printing industry**: 150-300 LPI halftone standards
+
+Understanding digital image resolution is essential for graphic designers, photographers, print professionals, and anyone working with digital imaging, displays, or print production.
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","digital-image-resolution",""],"i":false,"f":[[["",{"children":["digital-image-resolution",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["digital-image-resolution",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Digital Image Resolution Converter","description":"Convert between PPI, DPI, pixels per cm, and other digital image resolution units for displays and printing.","icon":"🖼️","units":[{"value":"pixelsPerInch","label":"Pixels per Inch (PPI)"},{"value":"dotsPerInch","label":"Dots per Inch (DPI)"},{"value":"pixelsPerCentimeter","label":"Pixels per Centimeter (px/cm)"},{"value":"pixelsPerMillimeter","label":"Pixels per Millimeter (px/mm)"},{"value":"dotsPerCentimeter","label":"Dots per Centimeter (dots/cm)"},{"value":"dotsPerMillimeter","label":"Dots per Millimeter (dots/mm)"},{"value":"linesPerInch","label":"Lines per Inch (LPI)"},{"value":"linesPerCentimeter","label":"Lines per Centimeter (lines/cm)"},{"value":"pixelsPerMeter","label":"Pixels per Meter (px/m)"},{"value":"micrometerPerPixel","label":"Micrometers per Pixel (μm/px)"}],"converterType":"digitalImageResolution","commonConversions":[{"from":"pixelsPerInch","to":"dotsPerInch","text":"PPI → DPI"},{"from":"pixelsPerInch","to":"pixelsPerCentimeter","text":"PPI → px/cm"},{"from":"dotsPerInch","to":"dotsPerCentimeter","text":"DPI → dots/cm"},{"from":"pixelsPerCentimeter","to":"pixelsPerMillimeter","text":"px/cm → px/mm"},{"from":"pixelsPerInch","to":"micrometerPerPixel","text":"PPI → μm/px"},{"from":"linesPerInch","to":"linesPerCentimeter","text":"LPI → lines/cm"}],"examples":[{"text":"Standard monitor: 96 PPI","calculation":"96 PPI = 96 DPI = 37.8 px/cm = 3.78 px/mm = 264.6 μm/px"},{"text":"High-res display: 300 PPI","calculation":"300 PPI = 300 DPI = 118.1 px/cm = 11.81 px/mm = 84.7 μm/px"},{"text":"4K monitor: 163 PPI","calculation":"163 PPI = 163 DPI = 64.2 px/cm = 6.42 px/mm = 155.8 μm/px"},{"text":"Smartphone: 460 PPI","calculation":"460 PPI = 460 DPI = 181.1 px/cm = 18.11 px/mm = 55.2 μm/px"},{"text":"Print quality: 600 DPI","calculation":"600 DPI = 600 PPI = 236.2 px/cm = 23.62 px/mm = 42.3 μm/px"},{"text":"Laser printer: 1200 DPI","calculation":"1200 DPI = 1200 PPI = 472.4 px/cm = 47.24 px/mm = 21.2 μm/px"}],"explanation":"$7"}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","hxvl_-WmdBo5iX1Fw6XAy",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

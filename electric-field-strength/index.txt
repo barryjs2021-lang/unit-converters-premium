@@ -1,0 +1,104 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","8785","static/chunks/app/electric-field-strength/page-0da611f91e649860.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:T109f,
+Electric field strength is the force per unit charge exerted on a test charge placed in an electric field. It represents the intensity of the electric field and is fundamental to understanding electrostatic phenomena and electrical breakdown.
+
+The SI unit for electric field strength is volt per meter (V/m), which is equivalent to newton per coulomb (N/C).
+
+**Key characteristics:**
+• **Vector quantity** - has both magnitude and direction
+• **Force relationship** - F = qE (force = charge × field strength)
+• **Voltage gradient** - E = -∇V (negative gradient of electric potential)
+• **Superposition principle** - fields from multiple sources add vectorially
+
+**Fundamental relationships:**
+• **Electric force**: F = qE (force on charge q in field E)
+• **Potential difference**: V = ∫E·dl (line integral of electric field)
+• **Gauss's law**: ∇·E = ρ/ε₀ (divergence relates to charge density)
+• **Energy density**: u = ½ε₀E² (electrostatic energy per unit volume)
+
+**Applications:**
+• **High voltage engineering** - insulation design and breakdown analysis
+• **Electrostatic precipitators** - particle collection efficiency
+• **Capacitor design** - dielectric strength and energy storage
+• **Lightning protection** - field enhancement and discharge initiation
+• **Electron guns** - particle acceleration and beam focusing
+• **Electrostatic painting** - coating processes and efficiency
+
+**Breakdown field strengths:**
+• **Air (dry)**: ~3 MV/m (atmospheric pressure)
+• **Vacuum**: No intrinsic limit (field emission from surfaces)
+• **Glass**: 10-25 MV/m (depends on type and purity)
+• **Mica**: 100-200 MV/m (excellent insulator)
+• **Polyethylene**: 20-40 MV/m (plastic insulation)
+• **Transformer oil**: 10-15 MV/m (liquid dielectric)
+• **SF₆ gas**: 8-10 MV/m (at atmospheric pressure)
+
+**Common field strengths:**
+• **Atmospheric fair weather**: 100-150 V/m (downward)
+• **Under thunderclouds**: 1,000-10,000 V/m
+• **Van de Graaff generator**: 100-500 kV/m (near sphere)
+• **High voltage transmission**: 1-10 kV/m (at conductor surface)
+• **CRT electron gun**: 1-10 MV/m (acceleration region)
+• **Laser-induced breakdown**: >100 MV/m (optical damage)
+
+**Measurement techniques:**
+• **Field mills** - rotating vane electrostatic sensors
+• **Kelvin probes** - non-contact surface potential measurement
+• **Electric field meters** - calibrated probe instruments
+• **Optical methods** - Kerr effect and Pockels effect sensors
+• **Spark gap measurements** - breakdown voltage determination
+
+**Design considerations:**
+• **Conductor geometry** - sharp edges enhance fields
+• **Dielectric properties** - permittivity affects field distribution
+• **Temperature effects** - thermal expansion and breakdown strength
+• **Humidity influence** - moisture affects breakdown in air
+• **Frequency response** - AC vs. DC field behavior
+
+**Safety standards:**
+• **Human exposure limits** - typically <5 kV/m for public areas
+• **Equipment spacing** - minimum clearances for given voltages
+• **Corona inception** - field levels that initiate partial discharge
+• **Flashover prevention** - surface contamination considerations
+
+**Related phenomena:**
+• **Corona discharge** - ionization at high field regions
+• **Partial discharge** - localized electrical breakdown
+• **Field emission** - electron emission from surfaces
+• **Electrostriction** - mechanical deformation in dielectrics
+• **Dielectrophoresis** - particle motion in non-uniform fields
+
+**Key relationships:**
+- **Parallel plates**: E = V/d (uniform field between plates)
+- **Point charge**: E = kq/r² (Coulomb's law for point source)
+- **Cylindrical geometry**: E = λ/(2πε₀r) (infinite line charge)
+- **Spherical geometry**: E = Q/(4πε₀r²) (spherical charge distribution)
+
+**Units conversion examples:**
+• **1 V/m** = 1 N/C = 0.001 kV/m = 0.01 V/cm
+• **1 kV/cm** = 100,000 V/m = 0.1 MV/m = 100 N/C
+• **1 MV/m** = 1,000,000 V/m = 1,000 kV/m = 10,000 V/cm
+
+Understanding electric field strength is essential for electrical engineers, high voltage specialists, electrostatics researchers, and anyone working with electrical equipment, lightning protection, or dielectric materials.
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","electric-field-strength",""],"i":false,"f":[[["",{"children":["electric-field-strength",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["electric-field-strength",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Electric Field Strength Converter","description":"Convert between V/m, N/C, kV/m, MV/m, and other electric field strength units for high voltage and electrostatics.","icon":"⚡","units":[{"value":"voltPerMeter","label":"Volt per Meter (V/m)"},{"value":"newtonPerCoulomb","label":"Newton per Coulomb (N/C)"},{"value":"kilovoltPerMeter","label":"Kilovolt per Meter (kV/m)"},{"value":"megavoltPerMeter","label":"Megavolt per Meter (MV/m)"},{"value":"voltPerCentimeter","label":"Volt per Centimeter (V/cm)"},{"value":"voltPerMillimeter","label":"Volt per Millimeter (V/mm)"},{"value":"kilovoltPerCentimeter","label":"Kilovolt per Centimeter (kV/cm)"},{"value":"kilovoltPerMillimeter","label":"Kilovolt per Millimeter (kV/mm)"},{"value":"millivoltPerMeter","label":"Millivolt per Meter (mV/m)"},{"value":"microvoltPerMeter","label":"Microvolt per Meter (μV/m)"},{"value":"statvoltPerCentimeter","label":"Statvolt per Centimeter (statV/cm)"},{"value":"voltPerMil","label":"Volt per Mil (V/mil)"}],"converterType":"electricFieldStrength","commonConversions":[{"from":"voltPerMeter","to":"newtonPerCoulomb","text":"V/m → N/C"},{"from":"voltPerMeter","to":"kilovoltPerMeter","text":"V/m → kV/m"},{"from":"kilovoltPerMeter","to":"voltPerMeter","text":"kV/m → V/m"},{"from":"voltPerMeter","to":"voltPerCentimeter","text":"V/m → V/cm"},{"from":"kilovoltPerCentimeter","to":"megavoltPerMeter","text":"kV/cm → MV/m"},{"from":"voltPerCentimeter","to":"voltPerMillimeter","text":"V/cm → V/mm"}],"examples":[{"text":"Air breakdown field: 3 MV/m","calculation":"3 MV/m = 3,000,000 V/m = 3,000 kV/m = 30,000 V/cm = 30 kV/cm"},{"text":"High voltage lab: 100 kV/m","calculation":"100 kV/m = 100,000 V/m = 0.1 MV/m = 1,000 V/cm = 1 kV/cm"},{"text":"Capacitor field: 10 kV/cm","calculation":"10 kV/cm = 1,000,000 V/m = 1 MV/m = 1,000 kV/m = 100 V/mm"},{"text":"Van de Graaff generator: 500 kV/m","calculation":"500 kV/m = 500,000 V/m = 0.5 MV/m = 5,000 V/cm = 5 kV/cm"},{"text":"Atmospheric field: 100 V/m","calculation":"100 V/m = 0.1 kV/m = 1 V/cm = 0.1 V/mm = 100,000 mV/m"},{"text":"Lightning channel: 1 MV/m","calculation":"1 MV/m = 1,000,000 V/m = 1,000 kV/m = 10,000 V/cm = 10 kV/cm"}],"explanation":"$7"}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","v0O0hnf8BwbwUP1EMr_BE",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

@@ -1,0 +1,70 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","2743","static/chunks/app/radioactivity/page-086232b4e7faf372.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:T82d,
+Radioactivity is the spontaneous decay of unstable atomic nuclei, releasing ionizing radiation. It's measured as the number of disintegrations per unit time.
+
+**SI Unit:**
+• **Becquerel (Bq)** - 1 disintegration per second
+
+**Legacy Unit:**
+• **Curie (Ci)** - 3.7×10¹⁰ disintegrations per second
+• Originally based on activity of 1 gram of radium-226
+
+**Key characteristics:**
+• **Random process** - follows exponential decay law
+• **Half-life** - time for activity to reduce by half
+• **Specific activity** - activity per unit mass (Bq/g)
+• **Activity concentration** - activity per unit volume (Bq/L)
+
+**Nuclear medicine applications:**
+• **Diagnostic imaging** - typically MBq levels
+• **Therapeutic applications** - GBq to TBq levels
+• **Radiopharmaceuticals** - specific activity formulations
+• **Quality control** - calibration standards
+
+**Common radioisotopes:**
+• **Tc-99m** - Most common diagnostic isotope (6-hour half-life)
+• **F-18** - PET imaging (110-minute half-life)
+• **I-131** - Thyroid therapy (8-day half-life)
+• **Lu-177** - Neuroendocrine tumor therapy (6.7-day half-life)
+• **Ra-223** - Bone metastases therapy (11.4-day half-life)
+
+**Measurement techniques:**
+• **Dose calibrators** - ionization chambers for activity measurement
+• **Gamma counters** - well-type detectors
+• **Liquid scintillation** - for beta emitters
+• **Geiger-Müller detectors** - contamination monitoring
+
+**Regulatory considerations:**
+• **Licensed activities** - require regulatory approval
+• **Transport regulations** - specific packaging requirements
+• **Waste disposal** - decay storage and disposal protocols
+• **Personnel monitoring** - radiation safety programs
+
+**Activity calculations:**
+- **Decay equation**: A(t) = A₀ × e^(-λt)
+- **Half-life relation**: t₁/₂ = ln(2)/λ
+- **Specific activity**: Activity per unit mass or volume
+
+Understanding radioactivity units is crucial for nuclear medicine technologists, medical physicists, radiation safety officers, and healthcare professionals working with radioactive materials.
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","radioactivity",""],"i":false,"f":[[["",{"children":["radioactivity",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["radioactivity",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Radioactivity Converter","description":"Convert between Bq, Ci, MBq, mCi, and other radioactivity units for nuclear medicine.","icon":"⚛️","units":[{"value":"becquerel","label":"Becquerel (Bq)"},{"value":"curie","label":"Curie (Ci)"},{"value":"millicurie","label":"Millicurie (mCi)"},{"value":"microcurie","label":"Microcurie (μCi)"},{"value":"nanocurie","label":"Nanocurie (nCi)"},{"value":"picocurie","label":"Picocurie (pCi)"},{"value":"disintegrationsPerMinute","label":"Disintegrations per Minute (dpm)"},{"value":"countsPerMinute","label":"Counts per Minute (cpm)"},{"value":"kilobecquerel","label":"Kilobecquerel (kBq)"},{"value":"megabecquerel","label":"Megabecquerel (MBq)"},{"value":"gigabecquerel","label":"Gigabecquerel (GBq)"},{"value":"terabecquerel","label":"Terabecquerel (TBq)"}],"converterType":"radioactivity","commonConversions":[{"from":"becquerel","to":"curie","text":"Bq → Ci"},{"from":"curie","to":"becquerel","text":"Ci → Bq"},{"from":"millicurie","to":"megabecquerel","text":"mCi → MBq"},{"from":"megabecquerel","to":"millicurie","text":"MBq → mCi"},{"from":"microcurie","to":"kilobecquerel","text":"μCi → kBq"},{"from":"disintegrationsPerMinute","to":"becquerel","text":"dpm → Bq"}],"examples":[{"text":"Tc-99m injection: 740 MBq","calculation":"740 MBq = 20 mCi = 7.4×10⁸ Bq = 44.4×10⁹ dpm"},{"text":"F-18 FDG PET dose: 370 MBq","calculation":"370 MBq = 10 mCi = 3.7×10⁸ Bq = 22.2×10⁹ dpm"},{"text":"I-131 therapy: 3.7 GBq","calculation":"3.7 GBq = 100 mCi = 3.7×10⁹ Bq = 222×10⁹ dpm"},{"text":"Radon in air: 150 Bq/m³","calculation":"150 Bq/m³ = 4.05 pCi/L = 9000 dpm/m³"},{"text":"Co-60 source: 37 TBq","calculation":"37 TBq = 1000 Ci = 3.7×10¹³ Bq = 2.22×10¹⁵ dpm"},{"text":"Contamination limit: 37 kBq","calculation":"37 kBq = 1 μCi = 37,000 Bq = 2.22×10⁶ dpm"}],"explanation":"$7"}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","Uga9Jl1XzoHo-C8keDTm6",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

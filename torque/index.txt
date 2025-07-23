@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","4825","static/chunks/app/torque/page-29e6cf7b203ca841.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:T504,
+Torque is a measure of the rotational force applied to an object around an axis. It represents the tendency of a force to rotate an object about a pivot point. Torque is fundamental in mechanical engineering, automotive applications, and any system involving rotation.
+
+The Newton-meter (N⋅m) is the SI unit of torque, defined as the torque resulting from a force of one newton applied perpendicularly to a moment arm of one meter. However, other units are commonly used in different industries:
+
+• **Metric/Scientific**: Newton-meter (N⋅m), kilogram-force meter (kgf⋅m)
+• **Imperial/US**: Foot-pound (ft⋅lb), inch-pound (in⋅lb)
+• **CGS System**: Dyne-centimeter (dyn⋅cm)
+
+Torque applications include:
+- **Automotive**: Engine torque, wheel lug nuts, bolt specifications
+- **Mechanical Engineering**: Motor specifications, gear systems
+- **Construction**: Bolt tightening specifications
+- **Manufacturing**: Assembly line torque requirements
+- **Aerospace**: Critical fastener specifications
+
+Understanding torque conversions is essential for:
+- Proper bolt tightening to manufacturer specifications
+- Motor and engine performance comparisons
+- International engineering collaboration
+- Safety-critical applications where over or under-tightening can cause failure
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","torque",""],"i":false,"f":[[["",{"children":["torque",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["torque",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Torque Converter","description":"Convert between newton-meters and foot-pounds.","explanation":"$7","units":[{"value":"newtonMeter","label":"Newton Meter (N⋅m)"},{"value":"footPound","label":"Foot-Pound (ft⋅lb)"},{"value":"inchPound","label":"Inch-Pound (in⋅lb)"},{"value":"kilogramMeter","label":"Kilogram Force Meter (kgf⋅m)"},{"value":"dyneCentimeter","label":"Dyne Centimeter (dyn⋅cm)"}],"converterType":"torque","icon":"🔩","commonConversions":[{"from":"newtonMeter","to":"footPound","text":"N⋅m → ft⋅lb"},{"from":"footPound","to":"newtonMeter","text":"ft⋅lb → N⋅m"},{"from":"newtonMeter","to":"inchPound","text":"N⋅m → in⋅lb"},{"from":"inchPound","to":"newtonMeter","text":"in⋅lb → N⋅m"},{"from":"footPound","to":"inchPound","text":"ft⋅lb → in⋅lb"},{"from":"kilogramMeter","to":"newtonMeter","text":"kgf⋅m → N⋅m"}],"examples":[{"text":"Car wheel lug nuts: 100 ft⋅lb","calculation":"100 ft⋅lb = 135.6 N⋅m"},{"text":"Bicycle pedal: 40 N⋅m","calculation":"40 N⋅m = 29.5 ft⋅lb = 354 in⋅lb"},{"text":"Engine bolt: 25 ft⋅lb","calculation":"25 ft⋅lb = 33.9 N⋅m = 300 in⋅lb"},{"text":"Small screw: 5 in⋅lb","calculation":"5 in⋅lb = 0.565 N⋅m = 0.417 ft⋅lb"}]}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","i3wJmSGkPPNrogi1E59bv",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

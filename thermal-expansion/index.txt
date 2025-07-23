@@ -1,0 +1,59 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","6918","static/chunks/app/thermal-expansion/page-e8061c0b709a7416.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:T68f,
+Thermal expansion coefficient describes how much a material expands or contracts when its temperature changes. It quantifies the fractional change in size per unit temperature change.
+
+The SI unit for linear thermal expansion coefficient is per kelvin (1/K). It represents the fractional change in length per degree of temperature change.
+
+**Key characteristics:**
+• **Higher coefficient** = more expansion/contraction with temperature
+• **Material property** - varies significantly between materials
+• **Temperature dependent** - can vary with temperature range
+• **Critical for engineering** - must account for thermal stresses
+
+**Types of thermal expansion:**
+• **Linear expansion** - change in one dimension (length)
+• **Area expansion** - change in two dimensions (≈ 2 × linear)
+• **Volume expansion** - change in three dimensions (≈ 3 × linear)
+
+**Common coefficient ranges:**
+• **Metals**: 10-25 ppm/K (steel, aluminum, copper)
+• **Ceramics/Glass**: 3-12 ppm/K (low expansion)
+• **Polymers**: 50-200 ppm/K (high expansion)
+• **Composites**: Variable, can be engineered
+
+**Applications:**
+- Bridge and building joint design
+- Precision machining and metrology
+- Thermal stress analysis
+- Semiconductor manufacturing
+- Optical system design
+- Pipeline and pressure vessel design
+
+**Key relationships:**
+- **Thermal stress**: σ = E × α × ΔT (stress = modulus × expansion × temp change)
+- **Length change**: ΔL = L₀ × α × ΔT
+- **Strain**: ε = α × ΔT
+
+Understanding thermal expansion is essential for structural design, precision engineering, and any application where dimensional stability across temperature ranges is critical.
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","thermal-expansion",""],"i":false,"f":[[["",{"children":["thermal-expansion",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["thermal-expansion",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Thermal Expansion Converter","description":"Convert between various thermal expansion coefficient units like 1/K, ppm/K, and μm/m/K.","icon":"📏","units":[{"value":"perKelvin","label":"Per Kelvin (1/K)"},{"value":"perCelsius","label":"Per Celsius (1/°C)"},{"value":"ppmPerKelvin","label":"Parts per Million per Kelvin (ppm/K)"},{"value":"ppmPerCelsius","label":"Parts per Million per Celsius (ppm/°C)"},{"value":"micrometerPerMeterPerKelvin","label":"Micrometer per Meter per Kelvin (μm/m/K)"},{"value":"micrometerPerMeterPerCelsius","label":"Micrometer per Meter per Celsius (μm/m/°C)"},{"value":"inchPerInchPerFahrenheit","label":"Inch per Inch per Fahrenheit (in/in/°F)"},{"value":"percentPerKelvin","label":"Percent per Kelvin (%/K)"},{"value":"percentPerCelsius","label":"Percent per Celsius (%/°C)"}],"converterType":"thermalExpansion","commonConversions":[{"from":"perKelvin","to":"ppmPerKelvin","text":"1/K → ppm/K"},{"from":"ppmPerKelvin","to":"perKelvin","text":"ppm/K → 1/K"},{"from":"perKelvin","to":"micrometerPerMeterPerKelvin","text":"1/K → μm/m/K"},{"from":"perKelvin","to":"inchPerInchPerFahrenheit","text":"1/K → in/in/°F"},{"from":"ppmPerKelvin","to":"micrometerPerMeterPerKelvin","text":"ppm/K → μm/m/K"},{"from":"percentPerKelvin","to":"ppmPerKelvin","text":"%/K → ppm/K"}],"examples":[{"text":"Steel: 12 ppm/K","calculation":"12 ppm/K = 1.2×10⁻⁵ /K = 12 μm/m/K = 6.7 ppm/°F"},{"text":"Aluminum: 23 ppm/K","calculation":"23 ppm/K = 2.3×10⁻⁵ /K = 23 μm/m/K = 12.8 ppm/°F"},{"text":"Concrete: 10 ppm/K","calculation":"10 ppm/K = 1.0×10⁻⁵ /K = 10 μm/m/K = 5.6 ppm/°F"},{"text":"Copper: 17 ppm/K","calculation":"17 ppm/K = 1.7×10⁻⁵ /K = 17 μm/m/K = 9.4 ppm/°F"},{"text":"Glass (typical): 9 ppm/K","calculation":"9 ppm/K = 9.0×10⁻⁶ /K = 9 μm/m/K = 5.0 ppm/°F"},{"text":"PVC plastic: 80 ppm/K","calculation":"80 ppm/K = 8.0×10⁻⁵ /K = 80 μm/m/K = 44.4 ppm/°F"}],"explanation":"$7"}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","vR6KEVqSBWWT3aQnh4R5k",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

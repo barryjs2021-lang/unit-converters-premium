@@ -1,0 +1,51 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","2995","static/chunks/app/acceleration/page-34776fada6d7b88a.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:T5b0,
+Acceleration is the rate of change of velocity with respect to time. It indicates how quickly an object speeds up, slows down, or changes direction.
+
+Common acceleration units:
+• **m/s² (meter per second squared)**: The SI unit of acceleration. Represents the change in velocity (m/s) per second.
+• **ft/s² (foot per second squared)**: Imperial unit commonly used in engineering applications.
+• **g (standard gravity)**: Equal to Earth's gravitational acceleration (≈9.80665 m/s²). Used for expressing high accelerations.
+• **Gal (galileo)**: Equal to 1 cm/s². Used in geophysics and seismology for measuring small accelerations.
+• **in/s² (inch per second squared)**: Used in some engineering applications.
+
+Key relationships:
+- 1 g = 9.80665 m/s² = 32.174 ft/s²
+- 1 Gal = 0.01 m/s² = 0.001019 g
+- Acceleration due to gravity varies slightly by location on Earth
+
+Acceleration is important in:
+- **Automotive**: Vehicle performance, braking distances
+- **Aerospace**: G-forces on pilots and passengers
+- **Civil Engineering**: Seismic design, earthquake analysis
+- **Physics**: Motion analysis, force calculations
+- **Safety**: Impact analysis, protective equipment design
+- **Sports**: Athletic performance analysis
+
+Understanding acceleration helps in:
+- Vehicle safety design and testing
+- Structural engineering for earthquake resistance
+- Space mission planning and astronaut training
+- Industrial equipment design and operation
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","acceleration",""],"i":false,"f":[[["",{"children":["acceleration",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["acceleration",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Acceleration Converter","description":"Convert between m/s², ft/s² and standard gravity.","explanation":"$7","units":[{"value":"meterPerSecondSquared","label":"Meter per Second² (m/s²)"},{"value":"footPerSecondSquared","label":"Foot per Second² (ft/s²)"},{"value":"standardGravity","label":"Standard Gravity (g)"},{"value":"galileo","label":"Galileo (Gal)"},{"value":"inchPerSecondSquared","label":"Inch per Second² (in/s²)"}],"converterType":"acceleration","icon":"🚀","commonConversions":[{"from":"meterPerSecondSquared","to":"standardGravity","text":"m/s² → g"},{"from":"standardGravity","to":"meterPerSecondSquared","text":"g → m/s²"},{"from":"meterPerSecondSquared","to":"footPerSecondSquared","text":"m/s² → ft/s²"},{"from":"footPerSecondSquared","to":"meterPerSecondSquared","text":"ft/s² → m/s²"},{"from":"standardGravity","to":"footPerSecondSquared","text":"g → ft/s²"},{"from":"galileo","to":"meterPerSecondSquared","text":"Gal → m/s²"}],"examples":[{"text":"Earth's gravity: 1 g","calculation":"1 g = 9.81 m/s² = 32.2 ft/s²"},{"text":"Car acceleration: 3 m/s²","calculation":"3 m/s² = 0.306 g = 9.84 ft/s²"},{"text":"Space shuttle launch: 3 g","calculation":"3 g = 29.4 m/s² = 96.5 ft/s²"},{"text":"Earthquake: 100 Gal","calculation":"100 Gal = 1 m/s² = 0.102 g"}]}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","FMxh4qiTJ0fgHBwcdPEjS",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

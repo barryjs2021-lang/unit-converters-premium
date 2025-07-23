@@ -1,0 +1,64 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","6909","static/chunks/app/surface-tension/page-149b192b42c79674.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:T90e,
+Surface tension is the force per unit length acting along the boundary of a liquid surface. It arises from the cohesive forces between liquid molecules and is responsible for many phenomena like droplet formation and capillary action.
+
+Common surface tension units:
+• **N/m (newton per meter)**: SI unit for surface tension. Standard for scientific and engineering calculations.
+• **dyn/cm (dyne per centimeter)**: CGS unit commonly used in materials science and chemistry.
+• **mN/m (millinewton per meter)**: Practical unit for most liquids, numerically equal to dyn/cm.
+• **J/m² (joule per square meter)**: Energy per unit area, equivalent to N/m for surface tension.
+• **lbf/ft (pound force per foot)**: Imperial unit used in some engineering applications.
+
+Key relationships:
+- Surface tension = Force ÷ Length = Energy ÷ Area
+- 1 N/m = 1000 mN/m = 1000 dyn/cm = 1 J/m²
+- 1 dyn/cm = 1 mN/m = 0.001 N/m = 0.001 J/m²
+- Young-Laplace equation: ΔP = γ(1/R₁ + 1/R₂)
+
+Typical surface tension values (at 20°C):
+- **Water**: 72.8 mN/m (high due to hydrogen bonding)
+- **Mercury**: 486 mN/m (highest among common liquids)
+- **Ethanol**: 22.3 mN/m (lower due to organic nature)
+- **Benzene**: 28.9 mN/m (typical organic solvent)
+- **Soap Solution**: 25-40 mN/m (reduced by surfactants)
+
+Temperature and contamination effects:
+- **Temperature**: Surface tension generally decreases with increasing temperature
+- **Surfactants**: Dramatically reduce surface tension (detergents, soaps)
+- **Impurities**: Even trace amounts can significantly affect surface tension
+- **Critical Temperature**: Surface tension approaches zero at critical point
+
+Surface tension is important in:
+- **Chemical Engineering**: Distillation, extraction, bubble columns
+- **Materials Science**: Coating processes, adhesion, wetting phenomena
+- **Biotechnology**: Cell membranes, protein folding, drug delivery
+- **Environmental Engineering**: Oil spill cleanup, flotation processes
+- **Manufacturing**: Printing, painting, soldering, cleaning processes
+
+Understanding surface tension helps in:
+- Designing efficient separation and purification processes
+- Optimizing coating and painting applications
+- Developing effective cleaning and decontamination methods
+- Understanding biological membrane behavior and drug interactions
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","surface-tension",""],"i":false,"f":[[["",{"children":["surface-tension",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["surface-tension",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Surface Tension Converter","description":"Convert between N/m, dyn/cm, mN/m, J/m², and other surface tension units.","explanation":"$7","units":[{"value":"newtonPerMeter","label":"Newton per Meter (N/m)"},{"value":"dynePerCentimeter","label":"Dyne per Centimeter (dyn/cm)"},{"value":"poundForcePerFoot","label":"Pound Force per Foot (lbf/ft)"},{"value":"gramForcePerCentimeter","label":"Gram Force per Centimeter (gf/cm)"},{"value":"millinewtonPerMeter","label":"Millinewton per Meter (mN/m)"},{"value":"micronewtonPerMeter","label":"Micronewton per Meter (μN/m)"},{"value":"joulePerSquareMeter","label":"Joule per Square Meter (J/m²)"},{"value":"ergPerSquareCentimeter","label":"Erg per Square Centimeter (erg/cm²)"},{"value":"poundForcePerInch","label":"Pound Force per Inch (lbf/in)"},{"value":"kilogramForcePerMeter","label":"Kilogram Force per Meter (kgf/m)"},{"value":"poundPerSecondSquared","label":"Pound per Second Squared (lb/s²)"},{"value":"gramPerSecondSquared","label":"Gram per Second Squared (g/s²)"}],"converterType":"surfaceTension","icon":"💧","commonConversions":[{"from":"newtonPerMeter","to":"dynePerCentimeter","text":"N/m → dyn/cm"},{"from":"dynePerCentimeter","to":"newtonPerMeter","text":"dyn/cm → N/m"},{"from":"millinewtonPerMeter","to":"dynePerCentimeter","text":"mN/m → dyn/cm"},{"from":"joulePerSquareMeter","to":"newtonPerMeter","text":"J/m² → N/m"},{"from":"poundForcePerFoot","to":"newtonPerMeter","text":"lbf/ft → N/m"},{"from":"gramForcePerCentimeter","to":"dynePerCentimeter","text":"gf/cm → dyn/cm"}],"examples":[{"text":"Water at 20°C: 72.8 mN/m","calculation":"72.8 mN/m = 0.0728 N/m = 72.8 dyn/cm = 72.8 J/m²"},{"text":"Mercury: 486 mN/m","calculation":"486 mN/m = 0.486 N/m = 486 dyn/cm = 0.0334 lbf/ft"},{"text":"Ethanol: 22.3 dyn/cm","calculation":"22.3 dyn/cm = 0.0223 N/m = 22.3 mN/m = 22.3 J/m²"},{"text":"Soap solution: 35 mN/m","calculation":"35 mN/m = 0.035 N/m = 35 dyn/cm = 0.0024 lbf/ft"}]}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","hQyqcwU72HxNlWXm0qTOY",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

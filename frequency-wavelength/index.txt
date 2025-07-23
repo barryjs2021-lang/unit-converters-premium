@@ -1,0 +1,109 @@
+1:"$Sreact.fragment"
+2:I[9243,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],""]
+3:I[5476,["5853","static/chunks/5853-e0df3bf194d84fb8.js","7177","static/chunks/app/layout-fe5dc3f513abee41.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[7731,["5853","static/chunks/5853-e0df3bf194d84fb8.js","6192","static/chunks/6192-0f3e933b04586758.js","6874","static/chunks/6874-ddc71f91bd106456.js","3791","static/chunks/3791-39ab1e3b129d5c41.js","3419","static/chunks/3419-a104778f50cdcb03.js","6531","static/chunks/app/frequency-wavelength/page-89d6c4dbdf2f701d.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/823119bdbee805b4.css","style"]
+7:Tf7a,
+Frequency and wavelength are inversely related properties of electromagnetic waves through the fundamental relationship: c = fλ, where c is the speed of light (299,792,458 m/s), f is frequency, and λ is wavelength.
+
+This converter handles the special relationship between these quantities across the entire electromagnetic spectrum.
+
+**Fundamental relationship:**
+• **c = fλ** - Speed of light equals frequency times wavelength
+• **f = c/λ** - Frequency equals speed of light divided by wavelength
+• **λ = c/f** - Wavelength equals speed of light divided by frequency
+
+**Electromagnetic spectrum:**
+• **Radio waves**: 3 Hz - 300 GHz (100,000 km - 1 mm)
+• **Microwaves**: 300 MHz - 300 GHz (1 m - 1 mm)
+• **Infrared**: 300 GHz - 400 THz (1 mm - 750 nm)
+• **Visible light**: 400-800 THz (750-375 nm)
+• **Ultraviolet**: 800 THz - 30 PHz (375-10 nm)
+• **X-rays**: 30 PHz - 30 EHz (10 nm - 10 pm)
+• **Gamma rays**: 30 EHz+ (10 pm and shorter)
+
+**Radio frequency bands:**
+• **ELF** (Extremely Low): 3-30 Hz (100,000-10,000 km)
+• **VLF** (Very Low): 3-30 kHz (100-10 km)
+• **LF** (Low): 30-300 kHz (10-1 km)
+• **MF** (Medium): 300 kHz-3 MHz (1000-100 m)
+• **HF** (High): 3-30 MHz (100-10 m)
+• **VHF** (Very High): 30-300 MHz (10-1 m)
+• **UHF** (Ultra High): 300 MHz-3 GHz (100-10 cm)
+• **SHF** (Super High): 3-30 GHz (10-1 cm)
+
+**Applications by frequency:**
+• **Power lines**: 50-60 Hz (5,000-6,000 km wavelength)
+• **AM radio**: 530-1700 kHz (566-176 m)
+• **FM radio**: 88-108 MHz (3.4-2.8 m)
+• **TV broadcasting**: 54-806 MHz (5.6-0.37 m)
+• **Cell phones**: 800 MHz-6 GHz (37.5-5 cm)
+• **WiFi**: 2.4/5 GHz (12.5/6 cm)
+• **Radar**: 1-100 GHz (30-0.3 cm)
+
+**Optical frequencies:**
+• **Infrared**: 300 GHz-400 THz (1 mm-750 nm)
+• **Red light**: ~430 THz (~700 nm)
+• **Green light**: ~540 THz (~555 nm)
+• **Blue light**: ~670 THz (~450 nm)
+• **UV-A**: 750-950 THz (400-315 nm)
+• **UV-B**: 950-1070 THz (315-280 nm)
+• **UV-C**: 1070-1500 THz (280-200 nm)
+
+**Physical significance:**
+• **Propagation** - different frequencies propagate differently
+• **Absorption** - materials absorb specific wavelengths
+• **Resonance** - objects resonate at characteristic frequencies
+• **Diffraction** - wave bending depends on wavelength vs. obstacle size
+• **Interference** - wave interactions depend on wavelength relationships
+
+**Measurement techniques:**
+• **Frequency counters** - direct frequency measurement
+• **Spectrum analyzers** - frequency domain analysis
+• **Interferometry** - wavelength measurement using interference
+• **Diffraction gratings** - wavelength separation and measurement
+• **Fabry-Perot cavities** - high-resolution frequency measurement
+
+**Technology applications:**
+• **Communications** - frequency allocation and channel spacing
+• **Radar** - target detection and ranging
+• **Spectroscopy** - material identification by absorption/emission
+• **Medical imaging** - X-ray, MRI, ultrasound
+• **Remote sensing** - satellite and atmospheric monitoring
+• **Astronomy** - stellar composition and distance measurement
+
+**Design considerations:**
+• **Antenna size** - optimal length is wavelength fraction
+• **Waveguide dimensions** - must accommodate wavelength
+• **Circuit elements** - component size vs. wavelength affects behavior
+• **Atmospheric propagation** - frequency-dependent absorption
+• **Human safety** - frequency-dependent biological effects
+
+**Key wavelength ranges:**
+• **Radio**: meters to kilometers
+• **Microwave**: millimeters to meters
+• **Infrared**: micrometers
+• **Visible**: hundreds of nanometers
+• **UV**: tens to hundreds of nanometers
+• **X-ray**: angstroms to nanometers
+• **Gamma**: picometers and smaller
+
+Understanding frequency-wavelength relationships is essential for RF engineers, optical engineers, astronomers, spectroscopists, and anyone working with electromagnetic waves across the spectrum.
+0:{"P":null,"b":"EGknlWy5xFtax4JvplWKP","p":"","c":["","frequency-wavelength",""],"i":false,"f":[[["",{"children":["frequency-wavelength",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/823119bdbee805b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_5cfdac __variable_9a8899","children":[["$","head",null,{"children":["$","$L2",null,{"crossOrigin":"anonymous","src":"//unpkg.com/same-runtime/dist/index.global.js"}]}],["$","body",null,{"suppressHydrationWarning":true,"className":"antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["frequency-wavelength",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"title":"Frequency Wavelength Converter","description":"Convert between Hz, MHz, GHz and meters, cm, nm using the electromagnetic wave relationship c=fλ.","icon":"📡","units":[{"value":"hertz","label":"Hertz (Hz)"},{"value":"kilohertz","label":"Kilohertz (kHz)"},{"value":"megahertz","label":"Megahertz (MHz)"},{"value":"gigahertz","label":"Gigahertz (GHz)"},{"value":"terahertz","label":"Terahertz (THz)"},{"value":"petahertz","label":"Petahertz (PHz)"},{"value":"meter","label":"Meter (m)"},{"value":"centimeter","label":"Centimeter (cm)"},{"value":"millimeter","label":"Millimeter (mm)"},{"value":"micrometer","label":"Micrometer (μm)"},{"value":"nanometer","label":"Nanometer (nm)"},{"value":"angstrom","label":"Angstrom (Å)"},{"value":"picometer","label":"Picometer (pm)"}],"converterType":"frequencyWavelength","commonConversions":[{"from":"megahertz","to":"meter","text":"MHz → m"},{"from":"gigahertz","to":"centimeter","text":"GHz → cm"},{"from":"terahertz","to":"micrometer","text":"THz → μm"},{"from":"nanometer","to":"terahertz","text":"nm → THz"},{"from":"micrometer","to":"terahertz","text":"μm → THz"},{"from":"hertz","to":"meter","text":"Hz → m"}],"examples":[{"text":"AM Radio (1 MHz): 300 m wavelength","calculation":"1 MHz ↔ 300 m | Radio waves for long-distance communication"},{"text":"FM Radio (100 MHz): 3 m wavelength","calculation":"100 MHz ↔ 3 m | VHF radio broadcasting band"},{"text":"WiFi 2.4GHz: 12.5 cm wavelength","calculation":"2.4 GHz ↔ 12.5 cm | Wireless networking frequency"},{"text":"Microwave oven (2.45 GHz): 12.2 cm","calculation":"2.45 GHz ↔ 12.2 cm | Water molecule resonance heating"},{"text":"Visible red light (400 THz): 750 nm","calculation":"400 THz ↔ 750 nm | Human eye perception limit"},{"text":"X-rays (3×10¹⁷ Hz): 1 nm wavelength","calculation":"300 PHz ↔ 1 nm | Medical imaging radiation"}],"explanation":"$7"}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","ubYkT5P2nKvd4oO05gqnd",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}
